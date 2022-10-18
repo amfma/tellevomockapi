@@ -3,6 +3,7 @@
     "conductor": { "string": {} },
     "fecha": {"string": {} },
     "origen": {"string":{}},
-    "destino": {"string":{}}
+    "destino": {"string":{}},
+    "pasajeros": {"string": []}
     }
   }
