@@ -4,6 +4,6 @@
     "fecha": {"string": {} },
     "origen": {"string":{}},
     "destino": {"string":{}},
-    "pasajeros": {"string": []}
+    "pasajeros": ["string"]
     }
   }
